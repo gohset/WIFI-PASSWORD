@@ -7,8 +7,10 @@ Permite mostrar todas las claves wifi de las redes ya registradas
 
 ## Cuenta con las sigiuentes opciones
 
--> Mostras todos los perfiles registrados...
+-> Mostras todos los perfiles registrados.
+
 -> Mostrar la clave de un perfin en especifico...
+
 -> Muestra todos los perfiles detalladamente con su clave...
 
 ### LA MENTE NO TIENE LIMITES... EL TIEMPO SI
